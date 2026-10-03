@@ -5,5 +5,5 @@
 // =============================================================
 window.BADMATCH_CONFIG = {
   SUPABASE_URL: "https://ivtaeggakfeydiogxynt.supabase.co",
-  SUPABASE_ANON_KEY: ""
+  SUPABASE_ANON_KEY: "sb_publishable_UPfOaBCTcpu4-QOjY7MGTw_QM_EBimf"
 };
